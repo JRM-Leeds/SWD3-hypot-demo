@@ -3,7 +3,7 @@ import pytest
 
 # test addition
 def test_addition_int():
-    assert addition(4,7) == 4
+    assert addition(4,7) == 11
 
 
 # test squared
