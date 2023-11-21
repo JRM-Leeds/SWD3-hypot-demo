@@ -11,7 +11,7 @@ Welcome to hypot's documentation!
    :caption: Contents:
 
    dependencies
-   function
+   functions
 
 Indices and tables
 ==================
