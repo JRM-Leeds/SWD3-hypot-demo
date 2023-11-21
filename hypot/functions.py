@@ -12,7 +12,7 @@ def squared(a):
     return a*a
 
 #sqroot
-def sqroot():
+def sqroot(a):
     return a**0.5
 
 #hypot
