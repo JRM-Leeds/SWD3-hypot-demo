@@ -7,7 +7,7 @@ def test_addition_int():
 
 # test squared
 def test_squared_odd():
-    assert squared (-2) == 4
+    assert squared(-2) == 4
 
 
 # test squared root
